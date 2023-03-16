@@ -1,0 +1,12 @@
+Nature: "Call"
+Type: "European"
+Maturity_Date: "01/07/2023"
+Pricing_Date: "01/09/2022"
+Stock_price: 100
+Strike: 101 
+Div_Date: "01/03/2023" 
+Div_Amount: 0
+Int_rate: 0.02
+Volatility: 0.20
+NSteps: 100
+Multiplicator: 1.7320508075688772935274463415059
